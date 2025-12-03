@@ -1,4 +1,5 @@
-{
+[
+  {
     "title": "Amazon Co.",
     "details": ["Seattle, WA", "Jun 2025 – Sep 2025", "Software Development Engineer Intern"],
     "image": ["../assets/amazon-logo.png", "Amazon logo with smile"],
@@ -28,7 +29,8 @@
     "image": ["../assets/lightedge-logo.png", "LightEdge Solutions logo"],
     "link": "https://lightedge.com/our-story/",
     "bullets": [
-      "Conducted independent research on network monitoring tools used in datacenter operations. ",
+      "Conducted independent research on network monitoring tools used in datacenter operations.",
       "Selected, implemented, and deployed pilot systems: SmokePing and Datadog, comparing performance to guide future deployment."
     ]
   }
+]
