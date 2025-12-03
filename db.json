@@ -1,8 +1,15 @@
 [
   {
     "title": "Amazon Co.",
-    "details": ["Seattle, WA", "Jun 2025 – Sep 2025", "Software Development Engineer Intern"],
-    "image": ["../assets/amazon-logo.png", "Amazon logo with smile"],
+    "details": [
+      "Seattle, WA",
+      "Jun 2025 – Sep 2025",
+      "Software Development Engineer Intern"
+    ],
+    "image": [
+      "../assets/amazon-logo.png",
+      "Amazon logo with smile"
+    ],
     "link": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us",
     "bullets": [
       "Developed a full-stack payment registration feature reducing API calls by 50%.",
@@ -13,8 +20,15 @@
   },
   {
     "title": "Palomar Insurance",
-    "details": ["La Jolla, CA", "Jun 2023 - Aug 2023", "Technology Operations Intern"],
-    "image": ["../assets/plmr-logo.png", "Image of palomar insurance logo, a mountain with palomar text"],
+    "details": [
+      "La Jolla, CA",
+      "Jun 2023 - Aug 2023",
+      "Technology Operations Intern"
+    ],
+    "image": [
+      "../assets/plmr-logo.png",
+      "Image of palomar insurance logo, a mountain with palomar text"
+    ],
     "link": "https://plmr.com/about/",
     "bullets": [
       "Developed and deployed a chatbot for internal company use and integration with Microsoft Teams, leveraging Azure OpenAI GPT-4 on company-specific data.",
@@ -25,8 +39,15 @@
   },
   {
     "title": "Lightedge Solutions",
-    "details": ["San Diego, CA", "Jul 2022 – Dec 2022", "Network Operations Intern"],
-    "image": ["../assets/lightedge-logo.png", "LightEdge Solutions logo"],
+    "details": [
+      "San Diego, CA",
+      "Jul 2022 – Dec 2022",
+      "Network Operations Intern"
+    ],
+    "image": [
+      "../assets/lightedge-logo.png",
+      "LightEdge Solutions logo"
+    ],
     "link": "https://lightedge.com/our-story/",
     "bullets": [
       "Conducted independent research on network monitoring tools used in datacenter operations.",
